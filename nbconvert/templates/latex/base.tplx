@@ -106,6 +106,7 @@ This template does not define a docclass, the inheriting class must define this.
       urlcolor=blue,
       linkcolor=darkorange,
       citecolor=darkgreen,
+      pdfpagemode=UseOutlines,
       }
     % Slightly bigger margins than the latex defaults
     ((* block margins *))
